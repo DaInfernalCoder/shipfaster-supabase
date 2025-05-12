@@ -2,4 +2,4 @@
 
 Hey maker 👋, unfortunately, it's not Marc :(
 
-Read https://shipfa.st/docs if you're a nerd
+Read https://shipfa.st/docs if you feel like it
