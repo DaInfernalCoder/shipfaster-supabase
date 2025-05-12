@@ -1,4 +1,4 @@
-# ShipFaster — Keeping it simple with Javascript, Supabase, Resend, Stripe, Posthog, Shadcn, Daisy 
+# ShipFaster — Javascript, Supabase, Resend, Stripe, Posthog, Shadcn, Daisy 
 
 Hey maker 👋, unfortunately, it's not Marc :(
 
